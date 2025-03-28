@@ -1,0 +1,9 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "Personal Portfolio Website",
+    "scripts": {
+      "build": "echo 'No build step needed'",
+      "start": "echo 'Static site'"
+    }
+  }
